@@ -10,5 +10,5 @@ make clean: hara un clean general de los ficheros creados durante el make, indep
 make clean_led: solo eliminara los archivos asociados a el led_blinky (Cuidado: Tambien elimina los creados en la carpeta drivers)
 make clean_hello: solo eliminara los archivos asociados a el hello_world (Cuidado: Tambien elimina los creados en la carpeta drivers)
 
-flash led: hara un flash del led_blinky
-flash hello: hara un flash del hello_world
+make flash_led: hara un flash del led_blinky.
+make flash_hello: hara un flash del hello_world
