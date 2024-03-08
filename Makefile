@@ -32,18 +32,16 @@ SRC_HELLO=$(wildcard $(SRC_DIR)/hello_world.c $(SRC_DIR)/$(DRIVERS_DIR)/*.c)
 OBJ_HELLO=$(patsubst %.c, %.o, $(SRC_HELLO))
 
 all: build_led build_hello
-#build: elf srec bin
+build_led: elf1 srec1 bin1
 elf1: $(TARGET_LED).elf
 srec1: $(TARGET_LED).srec
 bin1: $(TARGET_LED).bin
 
+build_hello: elf2 srec2 bin2
 elf2: $(TARGET_HELLO).elf
 srec2: $(TARGET_HELLO).srec
 bin2: $(TARGET_HELLO).bin
 
-
-build_led: elf1 srec1 bin1
-build_hello: elf2 srec2 bin2
 
 
 clean: clean_led clean_hello
@@ -70,5 +68,8 @@ $(TARGET_HELLO).elf: $(OBJ_HELLO)
 size:
 	$(SIZE) $(TARGET).elf
 
-flash: all
-	openocd -f openocd.cfg -c "program $(TARGET).elf verify reset exit"
+flash_led: build_led
+	openocd -f openocd.cfg -c "program $(TARGET_LED).elf verify reset exit"
+	
+flash_hello: build_hello
+	openocd -f openocd.cfg -c "program $(TARGET_HELLO).elf verify reset exit"
