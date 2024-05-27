@@ -1,0 +1,1403 @@
+Archive member included to satisfy reference by file (symbol)
+
+/usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_udivsi3.o)
+                              ./drivers/fsl_clock.o (__aeabi_uidiv)
+/usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_divsi3.o)
+                              ./drivers/fsl_str.o (__aeabi_idiv)
+/usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_dvmd_tls.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_udivsi3.o) (__aeabi_idiv0)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-atexit.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o (atexit)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-exit.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o (exit)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-fini.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o (__libc_fini_array)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-impure.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-exit.o) (_global_impure_ptr)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-init.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o (__libc_init_array)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-malloc.o)
+                              ./drivers/fsl_common.o (malloc)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-memcpy-stub.o)
+                              ./drivers/fsl_ftfx_cache.o (memcpy)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-memset.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o (memset)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-nano-freer.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-malloc.o) (_free_r)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-nano-mallocr.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-malloc.o) (_malloc_r)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-rand.o)
+                              main.o (rand)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-sbrkr.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-nano-mallocr.o) (_sbrk_r)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-strlen-stub.o)
+                              ./drivers/fsl_str.o (strlen)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-__atexit.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-atexit.o) (__register_exitproc)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-__call_atexit.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-__atexit.o) (__call_exitprocs)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-mlock.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-nano-freer.o) (__malloc_lock)
+/usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-reent.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-sbrkr.o) (errno)
+/usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_muldi3.o)
+                              /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-rand.o) (__aeabi_lmul)
+
+Discarded input sections
+
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crti.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crti.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crti.o
+ .text          0x0000000000000000       0x98 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+ .data          0x0000000000000000        0x4 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+ .bss           0x0000000000000000       0x1c /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+ .rodata        0x0000000000000000       0x24 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+ .init_array    0x0000000000000000        0x4 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+ .fini_array    0x0000000000000000        0x4 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+ .eh_frame      0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+ .tm_clone_table
+                0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+ .comment       0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+ .ARM.attributes
+                0x0000000000000000       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+ .text          0x0000000000000000       0x74 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .ARM.extab     0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .ARM.exidx     0x0000000000000000       0x10 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .debug_line    0x0000000000000000       0x8c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .debug_info    0x0000000000000000       0x26 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .debug_abbrev  0x0000000000000000       0x14 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .debug_str     0x0000000000000000       0x94 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .ARM.attributes
+                0x0000000000000000       0x1b /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+ .bss           0x0000000000000000        0x0 main.o
+ .data          0x0000000000000000        0x0 startup.o
+ .bss           0x0000000000000000        0x0 startup.o
+ .data          0x0000000000000000        0x0 ./drivers/board.o
+ .bss           0x0000000000000000        0x0 ./drivers/board.o
+ .data          0x0000000000000000        0x0 ./drivers/clock_config.o
+ .bss           0x0000000000000000        0x0 ./drivers/clock_config.o
+ .text          0x0000000000000000      0x30c ./drivers/event_groups.o
+ .data          0x0000000000000000        0x0 ./drivers/event_groups.o
+ .bss           0x0000000000000000        0x0 ./drivers/event_groups.o
+ .debug_info    0x0000000000000000      0xbb3 ./drivers/event_groups.o
+ .debug_abbrev  0x0000000000000000      0x1ac ./drivers/event_groups.o
+ .debug_loc     0x0000000000000000      0xcaf ./drivers/event_groups.o
+ .debug_aranges
+                0x0000000000000000       0x20 ./drivers/event_groups.o
+ .debug_ranges  0x0000000000000000       0x20 ./drivers/event_groups.o
+ .debug_line    0x0000000000000000      0x71a ./drivers/event_groups.o
+ .debug_str     0x0000000000000000      0x662 ./drivers/event_groups.o
+ .comment       0x0000000000000000       0x34 ./drivers/event_groups.o
+ .debug_frame   0x0000000000000000      0x174 ./drivers/event_groups.o
+ .ARM.attributes
+                0x0000000000000000       0x2c ./drivers/event_groups.o
+ .data          0x0000000000000000        0x0 ./drivers/fsl_assert.o
+ .bss           0x0000000000000000        0x0 ./drivers/fsl_assert.o
+ .text          0x0000000000000000       0x4c ./drivers/fsl_common.o
+ .data          0x0000000000000000        0x0 ./drivers/fsl_common.o
+ .bss           0x0000000000000000        0x0 ./drivers/fsl_common.o
+ .debug_info    0x0000000000000000      0x1eb ./drivers/fsl_common.o
+ .debug_abbrev  0x0000000000000000      0x116 ./drivers/fsl_common.o
+ .debug_loc     0x0000000000000000      0x1b9 ./drivers/fsl_common.o
+ .debug_aranges
+                0x0000000000000000       0x20 ./drivers/fsl_common.o
+ .debug_line    0x0000000000000000      0x120 ./drivers/fsl_common.o
+ .debug_str     0x0000000000000000      0x1d6 ./drivers/fsl_common.o
+ .comment       0x0000000000000000       0x34 ./drivers/fsl_common.o
+ .debug_frame   0x0000000000000000       0x44 ./drivers/fsl_common.o
+ .ARM.attributes
+                0x0000000000000000       0x2c ./drivers/fsl_common.o
+ .data          0x0000000000000000        0x0 ./drivers/fsl_debug_console.o
+ .bss           0x0000000000000000        0x0 ./drivers/fsl_debug_console.o
+ .data          0x0000000000000000        0x0 ./drivers/fsl_ftfx_cache.o
+ .text          0x0000000000000000      0x72c ./drivers/fsl_ftfx_controller.o
+ .data          0x0000000000000000        0x0 ./drivers/fsl_ftfx_controller.o
+ .bss           0x0000000000000000       0x40 ./drivers/fsl_ftfx_controller.o
+ .rodata        0x0000000000000000        0xc ./drivers/fsl_ftfx_controller.o
+ .debug_info    0x0000000000000000     0x16ac ./drivers/fsl_ftfx_controller.o
+ .debug_abbrev  0x0000000000000000      0x2b4 ./drivers/fsl_ftfx_controller.o
+ .debug_loc     0x0000000000000000     0x1591 ./drivers/fsl_ftfx_controller.o
+ .debug_aranges
+                0x0000000000000000       0x20 ./drivers/fsl_ftfx_controller.o
+ .debug_ranges  0x0000000000000000       0x18 ./drivers/fsl_ftfx_controller.o
+ .debug_line    0x0000000000000000      0xa43 ./drivers/fsl_ftfx_controller.o
+ .debug_str     0x0000000000000000     0x135a ./drivers/fsl_ftfx_controller.o
+ .comment       0x0000000000000000       0x34 ./drivers/fsl_ftfx_controller.o
+ .debug_frame   0x0000000000000000      0x264 ./drivers/fsl_ftfx_controller.o
+ .ARM.attributes
+                0x0000000000000000       0x2c ./drivers/fsl_ftfx_controller.o
+ .text          0x0000000000000000      0x6fc ./drivers/fsl_ftfx_flash.o
+ .data          0x0000000000000000        0x0 ./drivers/fsl_ftfx_flash.o
+ .bss           0x0000000000000000        0x0 ./drivers/fsl_ftfx_flash.o
+ .rodata        0x0000000000000000       0xa6 ./drivers/fsl_ftfx_flash.o
+ .debug_info    0x0000000000000000     0x196b ./drivers/fsl_ftfx_flash.o
+ .debug_abbrev  0x0000000000000000      0x323 ./drivers/fsl_ftfx_flash.o
+ .debug_loc     0x0000000000000000     0x14d0 ./drivers/fsl_ftfx_flash.o
+ .debug_aranges
+                0x0000000000000000       0x20 ./drivers/fsl_ftfx_flash.o
+ .debug_ranges  0x0000000000000000       0xb0 ./drivers/fsl_ftfx_flash.o
+ .debug_line    0x0000000000000000      0xa7f ./drivers/fsl_ftfx_flash.o
+ .debug_str     0x0000000000000000     0x13e7 ./drivers/fsl_ftfx_flash.o
+ .comment       0x0000000000000000       0x34 ./drivers/fsl_ftfx_flash.o
+ .debug_frame   0x0000000000000000      0x228 ./drivers/fsl_ftfx_flash.o
+ .ARM.attributes
+                0x0000000000000000       0x2c ./drivers/fsl_ftfx_flash.o
+ .text          0x0000000000000000      0x194 ./drivers/fsl_gpio.o
+ .data          0x0000000000000000        0x0 ./drivers/fsl_gpio.o
+ .bss           0x0000000000000000        0x0 ./drivers/fsl_gpio.o
+ .rodata.str1.4
+                0x0000000000000000       0x63 ./drivers/fsl_gpio.o
+ .rodata        0x0000000000000000       0x82 ./drivers/fsl_gpio.o
+ .debug_info    0x0000000000000000      0xa98 ./drivers/fsl_gpio.o
+ .debug_abbrev  0x0000000000000000      0x268 ./drivers/fsl_gpio.o
+ .debug_loc     0x0000000000000000      0x630 ./drivers/fsl_gpio.o
+ .debug_aranges
+                0x0000000000000000       0x20 ./drivers/fsl_gpio.o
+ .debug_ranges  0x0000000000000000       0x40 ./drivers/fsl_gpio.o
+ .debug_line    0x0000000000000000      0x33b ./drivers/fsl_gpio.o
+ .debug_str     0x0000000000000000      0x8d9 ./drivers/fsl_gpio.o
+ .comment       0x0000000000000000       0x34 ./drivers/fsl_gpio.o
+ .debug_frame   0x0000000000000000       0xd0 ./drivers/fsl_gpio.o
+ .ARM.attributes
+                0x0000000000000000       0x2c ./drivers/fsl_gpio.o
+ .data          0x0000000000000000        0x0 ./drivers/fsl_io.o
+ .data          0x0000000000000000        0x0 ./drivers/fsl_log.o
+ .bss           0x0000000000000000        0x0 ./drivers/fsl_log.o
+ .data          0x0000000000000000        0x0 ./drivers/fsl_lpsci.o
+ .data          0x0000000000000000        0x0 ./drivers/fsl_smc.o
+ .data          0x0000000000000000        0x0 ./drivers/fsl_str.o
+ .bss           0x0000000000000000        0x0 ./drivers/fsl_str.o
+ .data          0x0000000000000000        0x0 ./drivers/fsl_tickless_lptmr.o
+ .bss           0x0000000000000000        0x0 ./drivers/fsl_tickless_lptmr.o
+ .text          0x0000000000000000       0x30 ./drivers/fsl_tickless_systick.o
+ .data          0x0000000000000000        0x0 ./drivers/fsl_tickless_systick.o
+ .bss           0x0000000000000000        0x0 ./drivers/fsl_tickless_systick.o
+ .debug_info    0x0000000000000000       0xc7 ./drivers/fsl_tickless_systick.o
+ .debug_abbrev  0x0000000000000000       0x80 ./drivers/fsl_tickless_systick.o
+ .debug_aranges
+                0x0000000000000000       0x20 ./drivers/fsl_tickless_systick.o
+ .debug_line    0x0000000000000000       0xc1 ./drivers/fsl_tickless_systick.o
+ .debug_str     0x0000000000000000      0x181 ./drivers/fsl_tickless_systick.o
+ .comment       0x0000000000000000       0x34 ./drivers/fsl_tickless_systick.o
+ .debug_frame   0x0000000000000000       0x28 ./drivers/fsl_tickless_systick.o
+ .ARM.attributes
+                0x0000000000000000       0x2c ./drivers/fsl_tickless_systick.o
+ .data          0x0000000000000000        0x0 ./drivers/fsl_uart.o
+ .text          0x0000000000000000      0x478 ./drivers/lcd.o
+ .data          0x0000000000000000        0x0 ./drivers/lcd.o
+ .bss           0x0000000000000000        0x0 ./drivers/lcd.o
+ .rodata        0x0000000000000000       0x48 ./drivers/lcd.o
+ .debug_info    0x0000000000000000      0x700 ./drivers/lcd.o
+ .debug_abbrev  0x0000000000000000      0x1bf ./drivers/lcd.o
+ .debug_loc     0x0000000000000000      0x39e ./drivers/lcd.o
+ .debug_aranges
+                0x0000000000000000       0x20 ./drivers/lcd.o
+ .debug_line    0x0000000000000000      0x501 ./drivers/lcd.o
+ .debug_str     0x0000000000000000      0x2f3 ./drivers/lcd.o
+ .comment       0x0000000000000000       0x34 ./drivers/lcd.o
+ .debug_frame   0x0000000000000000       0xac ./drivers/lcd.o
+ .ARM.attributes
+                0x0000000000000000       0x2c ./drivers/lcd.o
+ .data          0x0000000000000000        0x0 ./drivers/list.o
+ .bss           0x0000000000000000        0x0 ./drivers/list.o
+ .data          0x0000000000000000        0x0 ./drivers/pin_mux.o
+ .bss           0x0000000000000000        0x0 ./drivers/pin_mux.o
+ .bss           0x0000000000000000        0x0 ./drivers/port.o
+ .data          0x0000000000000000        0x0 ./drivers/queue.o
+ .text          0x0000000000000000      0x5e8 ./drivers/stream_buffer.o
+ .data          0x0000000000000000        0x0 ./drivers/stream_buffer.o
+ .bss           0x0000000000000000        0x0 ./drivers/stream_buffer.o
+ .debug_info    0x0000000000000000     0x13cd ./drivers/stream_buffer.o
+ .debug_abbrev  0x0000000000000000      0x21c ./drivers/stream_buffer.o
+ .debug_loc     0x0000000000000000     0x1870 ./drivers/stream_buffer.o
+ .debug_aranges
+                0x0000000000000000       0x20 ./drivers/stream_buffer.o
+ .debug_line    0x0000000000000000      0xde2 ./drivers/stream_buffer.o
+ .debug_str     0x0000000000000000      0x7fe ./drivers/stream_buffer.o
+ .comment       0x0000000000000000       0x34 ./drivers/stream_buffer.o
+ .debug_frame   0x0000000000000000      0x270 ./drivers/stream_buffer.o
+ .ARM.attributes
+                0x0000000000000000       0x2c ./drivers/stream_buffer.o
+ .text          0x0000000000000000      0x184 ./drivers/system_MKL46Z4.o
+ .bss           0x0000000000000000        0x0 ./drivers/system_MKL46Z4.o
+ .data          0x0000000000000000        0x0 ./drivers/tasks.o
+ .rodata        0x0000000000000000       0x10 ./drivers/tasks.o
+ .data          0x0000000000000000        0x0 ./drivers/timers.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_udivsi3.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_udivsi3.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_divsi3.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_divsi3.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_dvmd_tls.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_dvmd_tls.o)
+ .text          0x0000000000000000       0x10 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-atexit.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-atexit.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-atexit.o)
+ .debug_info    0x0000000000000000      0x100 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-atexit.o)
+ .debug_abbrev  0x0000000000000000       0xb4 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-atexit.o)
+ .debug_loc     0x0000000000000000       0x32 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-atexit.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-atexit.o)
+ .debug_line    0x0000000000000000       0xc3 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-atexit.o)
+ .debug_str     0x0000000000000000      0x1e2 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-atexit.o)
+ .comment       0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-atexit.o)
+ .debug_frame   0x0000000000000000       0x28 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-atexit.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-atexit.o)
+ .text          0x0000000000000000       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-exit.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-exit.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-exit.o)
+ .debug_info    0x0000000000000000      0x81a /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-exit.o)
+ .debug_abbrev  0x0000000000000000      0x1ba /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-exit.o)
+ .debug_loc     0x0000000000000000       0x22 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-exit.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-exit.o)
+ .debug_line    0x0000000000000000      0x16b /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-exit.o)
+ .debug_str     0x0000000000000000      0x521 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-exit.o)
+ .comment       0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-exit.o)
+ .debug_frame   0x0000000000000000       0x28 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-exit.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-exit.o)
+ .text          0x0000000000000000       0x28 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-fini.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-fini.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-fini.o)
+ .debug_info    0x0000000000000000      0x102 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-fini.o)
+ .debug_abbrev  0x0000000000000000       0xcc /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-fini.o)
+ .debug_loc     0x0000000000000000       0x46 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-fini.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-fini.o)
+ .debug_line    0x0000000000000000       0xef /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-fini.o)
+ .debug_str     0x0000000000000000      0x1da /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-fini.o)
+ .comment       0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-fini.o)
+ .debug_frame   0x0000000000000000       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-fini.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-fini.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-impure.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-impure.o)
+ .rodata        0x0000000000000000        0x4 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-impure.o)
+ .text          0x0000000000000000       0x44 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-init.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-init.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-init.o)
+ .debug_info    0x0000000000000000      0x11a /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-init.o)
+ .debug_abbrev  0x0000000000000000       0xcc /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-init.o)
+ .debug_loc     0x0000000000000000       0x98 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-init.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-init.o)
+ .debug_line    0x0000000000000000      0x127 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-init.o)
+ .debug_str     0x0000000000000000      0x204 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-init.o)
+ .comment       0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-init.o)
+ .debug_frame   0x0000000000000000       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-init.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-init.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-malloc.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-malloc.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-memcpy-stub.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-memcpy-stub.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-memset.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-memset.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-nano-freer.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-nano-freer.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-nano-mallocr.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-rand.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-rand.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-sbrkr.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-sbrkr.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-strlen-stub.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-strlen-stub.o)
+ .text          0x0000000000000000       0xd0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-__atexit.o)
+ .data          0x0000000000000000        0x4 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-__atexit.o)
+ .bss           0x0000000000000000       0x8c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-__atexit.o)
+ .debug_info    0x0000000000000000      0x269 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-__atexit.o)
+ .debug_abbrev  0x0000000000000000      0x1bd /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-__atexit.o)
+ .debug_loc     0x0000000000000000      0x203 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-__atexit.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-__atexit.o)
+ .debug_line    0x0000000000000000      0x201 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-__atexit.o)
+ .debug_str     0x0000000000000000      0x290 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-__atexit.o)
+ .comment       0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-__atexit.o)
+ .debug_frame   0x0000000000000000       0x3c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-__atexit.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-__atexit.o)
+ .text          0x0000000000000000       0xfc /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-__call_atexit.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-__call_atexit.o)
+ .bss           0x0000000000000000        0x4 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-__call_atexit.o)
+ .debug_info    0x0000000000000000      0x249 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-__call_atexit.o)
+ .debug_abbrev  0x0000000000000000      0x179 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-__call_atexit.o)
+ .debug_loc     0x0000000000000000      0x273 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-__call_atexit.o)
+ .debug_aranges
+                0x0000000000000000       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-__call_atexit.o)
+ .debug_ranges  0x0000000000000000       0x28 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-__call_atexit.o)
+ .debug_line    0x0000000000000000      0x219 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-__call_atexit.o)
+ .debug_str     0x0000000000000000      0x254 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-__call_atexit.o)
+ .comment       0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-__call_atexit.o)
+ .debug_frame   0x0000000000000000       0x3c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-__call_atexit.o)
+ .ARM.attributes
+                0x0000000000000000       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-__call_atexit.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-mlock.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-mlock.o)
+ .text          0x0000000000000000      0x12c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-reent.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-reent.o)
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_muldi3.o)
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_muldi3.o)
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtend.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtend.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtend.o
+ .rodata        0x0000000000000000       0x24 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtend.o
+ .eh_frame      0x0000000000000000        0x4 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtend.o
+ .tm_clone_table
+                0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtend.o
+ .comment       0x0000000000000000       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtend.o
+ .ARM.attributes
+                0x0000000000000000       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtend.o
+ .text          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtn.o
+ .data          0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtn.o
+ .bss           0x0000000000000000        0x0 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtn.o
+ .init          0x0000000000000000        0x8 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtn.o
+ .fini          0x0000000000000000        0x8 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtn.o
+ .ARM.attributes
+                0x0000000000000000       0x1e /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+INTERRUPTS       0x0000000000000000 0x0000000000000100 xr
+FLASH_CONFIG     0x0000000000000400 0x0000000000000010 xr
+TEXT             0x0000000000000410 0x000000000003fbf0 xr
+RAM              0x000000001fffe000 0x0000000000008000 xrw
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crti.o
+LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtbegin.o
+LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/crt0.o
+                0x0000000000000400                STACK_SIZE = DEFINED (__stack_size__)?__stack_size__:0x400
+
+.interrupts     0x0000000000000000       0xc0
+ *(.isr_vector .isr_vector.*)
+ .isr_vector    0x0000000000000000       0xc0 startup.o
+                0x0000000000000000                g_pfnVectors
+
+.flash_config   0x0000000000000400       0x10
+                0x0000000000000400                . = ALIGN (0x4)
+                0x0000000000000400        0x4 LONG 0xffffffff
+                0x0000000000000404        0x4 LONG 0xffffffff
+                0x0000000000000408        0x4 LONG 0xffffffff
+                0x000000000000040c        0x4 LONG 0xfffffffe
+
+.text           0x0000000000000410     0x6e6e
+ *(.text .text.* .gnu.linkonce.t.*)
+ .text          0x0000000000000410      0x100 main.o
+                0x0000000000000474                _sbrk
+                0x0000000000000484                main
+ .text          0x0000000000000510       0x3c startup.o
+                0x0000000000000510                HardFaultIntHandler
+                0x0000000000000510                PendSVIntHandler
+                0x0000000000000510                SysTickIntHandler
+                0x0000000000000510                BusFaultIntHandler
+                0x0000000000000510                NMIIntHandler
+                0x0000000000000510                UsageFaultIntHandler
+                0x0000000000000510                MemManageIntHandler
+                0x0000000000000510                SVCIntHandler
+                0x0000000000000510                DebugMonIntHandler
+                0x0000000000000512                RTCSIntHandler
+                0x0000000000000512                FTM1IntHandler
+                0x0000000000000512                USBOTGIntHandler
+                0x0000000000000512                UART0SEIntHandler
+                0x0000000000000512                UART2SEIntHandler
+                0x0000000000000512                FTM2IntHandler
+                0x0000000000000512                I2C1IntHandler
+                0x0000000000000512                PORTDIntHandler
+                0x0000000000000512                Default_ResetHandler
+                0x0000000000000512                DMA1IntHandler
+                0x0000000000000512                DACIntHandler
+                0x0000000000000512                ACMPIntHandler
+                0x0000000000000512                ResetHandler
+                0x0000000000000512                LVDIntHandler
+                0x0000000000000512                PORTAIntHandler
+                0x0000000000000512                SPI1IntHandler
+                0x0000000000000512                FTFAIntHandler
+                0x0000000000000512                UART1SEIntHandler
+                0x0000000000000512                ADCIntHandler
+                0x0000000000000512                DMA0IntHandler
+                0x0000000000000512                I2C0IntHandler
+                0x0000000000000512                FTM0IntHandler
+                0x0000000000000512                LLWUIntHandler
+                0x0000000000000512                MCGIntHandler
+                0x0000000000000512                RTCAIntHandler
+                0x0000000000000512                SPI0IntHandler
+                0x0000000000000512                TSIIntHandler
+                0x0000000000000512                LPTMRIntHandler
+                0x0000000000000512                PITIntHandler
+                0x0000000000000512                DMA3IntHandler
+                0x0000000000000512                DMA2IntHandler
+ .text          0x000000000000054c       0x38 ./drivers/board.o
+                0x000000000000054c                BOARD_InitDebugConsole
+ .text          0x0000000000000584       0xd0 ./drivers/clock_config.o
+                0x000000000000059c                BOARD_BootClockRUN
+                0x0000000000000600                BOARD_BootClockVLPR
+ .text          0x0000000000000654       0x1c ./drivers/fsl_assert.o
+                0x0000000000000654                __assert_func
+ .text          0x0000000000000670      0xe78 ./drivers/fsl_clock.o
+                0x0000000000000770                CLOCK_GetOsc0ErClkFreq
+                0x00000000000007b0                CLOCK_GetEr32kClkFreq
+                0x0000000000000810                CLOCK_SetSimConfig
+                0x000000000000085c                CLOCK_EnableUsbfs0Clock
+                0x00000000000008bc                CLOCK_GetFllFreq
+                0x0000000000000908                CLOCK_GetInternalRefClkFreq
+                0x0000000000000920                CLOCK_GetPll0Freq
+                0x0000000000000970                CLOCK_GetPllFllSelClkFreq
+                0x00000000000009a4                CLOCK_GetOutClkFreq
+                0x00000000000009e8                CLOCK_GetPlatClkFreq
+                0x0000000000000a08                CLOCK_GetFlashClkFreq
+                0x0000000000000a34                CLOCK_GetBusClkFreq
+                0x0000000000000a60                CLOCK_GetCoreSysClkFreq
+                0x0000000000000a80                CLOCK_GetFixedFreqClkFreq
+                0x0000000000000a9c                CLOCK_GetFreq
+                0x0000000000000b20                CLOCK_SetExternalRefClkConfig
+                0x0000000000000b24                CLOCK_SetInternalRefClkConfig
+                0x0000000000000bac                CLOCK_CalcPllDiv
+                0x0000000000000c9c                CLOCK_EnablePll0
+                0x0000000000000cf4                CLOCK_SetOsc0MonitorMode
+                0x0000000000000d3c                CLOCK_SetPll0MonitorMode
+                0x0000000000000d80                CLOCK_GetStatusFlags
+                0x0000000000000db4                CLOCK_ClearStatusFlags
+                0x0000000000000dd4                CLOCK_InitOsc0
+                0x0000000000000e34                CLOCK_DeinitOsc0
+                0x0000000000000e50                CLOCK_TrimInternalRefClk
+                0x0000000000000f3c                CLOCK_GetMode
+                0x0000000000000fac                CLOCK_SetFeiMode
+                0x0000000000001018                CLOCK_SetFeeMode
+                0x00000000000010ac                CLOCK_SetFbiMode
+                0x0000000000001128                CLOCK_SetFbeMode
+                0x00000000000011b8                CLOCK_SetBlpiMode
+                0x00000000000011cc                CLOCK_SetBlpeMode
+                0x00000000000011e0                CLOCK_SetPbeMode
+                0x000000000000125c                CLOCK_SetPeeMode
+                0x000000000000127c                CLOCK_ExternalModeToFbeModeQuick
+                0x00000000000012c0                CLOCK_InternalModeToFbiModeQuick
+                0x00000000000012f0                CLOCK_BootToFeiMode
+                0x00000000000012f8                CLOCK_BootToFeeMode
+                0x0000000000001308                CLOCK_BootToBlpiMode
+                0x0000000000001348                CLOCK_BootToBlpeMode
+                0x0000000000001388                CLOCK_BootToPeeMode
+                0x00000000000013d4                CLOCK_SetMcgConfig
+ .text          0x00000000000014e8      0x158 ./drivers/fsl_debug_console.o
+                0x000000000000152a                DbgConsole_Init
+                0x0000000000001554                DbgConsole_Deinit
+                0x000000000000155e                DbgConsole_Flush
+                0x0000000000001566                DbgConsole_Printf
+                0x00000000000015a4                DbgConsole_Putchar
+                0x00000000000015b6                DbgConsole_Scanf
+                0x00000000000015ec                DbgConsole_Getchar
+                0x0000000000001600                _write
+                0x0000000000001628                _read
+ .text          0x0000000000001640       0xe0 ./drivers/fsl_ftfx_cache.o
+                0x0000000000001650                FTFx_CACHE_Init
+                0x0000000000001674                FTFx_CACHE_PflashSetPrefetchSpeculation
+                0x00000000000016cc                FTFx_CACHE_PflashGetPrefetchSpeculation
+                0x00000000000016f8                mcm_flash_cache_clear
+                0x0000000000001710                FTFx_CACHE_ClearCachePrefetchSpeculation
+ .text          0x0000000000001720      0x170 ./drivers/fsl_io.o
+                0x0000000000001720                IO_Init
+                0x00000000000017bc                IO_Deinit
+                0x00000000000017fc                IO_WaitIdle
+                0x0000000000001830                IO_Transfer
+ .text          0x0000000000001890      0x134 ./drivers/fsl_log.o
+                0x00000000000018a4                LOG_Init
+                0x00000000000018c2                LOG_Deinit
+                0x00000000000018ca                LOG_WaitIdle
+                0x00000000000018d4                LOG_Pop
+                0x00000000000018ee                LOG_Push
+                0x0000000000001914                LOG_ReadLine
+                0x0000000000001990                LOG_ReadCharacter
+ .text          0x00000000000019c4      0xc5c ./drivers/fsl_lpsci.o
+                0x0000000000001a24                LPSCI_GetInstance
+                0x0000000000001a5c                LPSCI_TransferGetRxRingBufferLength
+                0x0000000000001ad4                LPSCI_Init
+                0x0000000000001c5c                LPSCI_Deinit
+                0x0000000000001c7c                LPSCI_GetDefaultConfig
+                0x0000000000001cb4                LPSCI_SetBaudRate
+                0x0000000000001db0                LPSCI_EnableInterrupts
+                0x0000000000001dd4                LPSCI_DisableInterrupts
+                0x0000000000001df4                LPSCI_GetEnabledInterrupts
+                0x0000000000001e10                LPSCI_GetStatusFlags
+                0x0000000000001e1a                LPSCI_ClearStatusFlags
+                0x0000000000001e6c                LPSCI_TransferHandleIRQ
+                0x00000000000020d8                LPSCI_WriteBlocking
+                0x0000000000002114                LPSCI_ReadBlocking
+                0x00000000000021a8                LPSCI_TransferCreateHandle
+                0x0000000000002214                LPSCI_TransferStartRingBuffer
+                0x000000000000227c                LPSCI_TransferStopRingBuffer
+                0x00000000000022d0                LPSCI_TransferSendNonBlocking
+                0x000000000000236c                LPSCI_TransferAbortSend
+                0x00000000000023a0                LPSCI_TransferGetSendCount
+                0x00000000000023f8                LPSCI_TransferReceiveNonBlocking
+                0x0000000000002560                LPSCI_TransferAbortReceive
+                0x00000000000025b4                LPSCI_TransferGetReceiveCount
+                0x0000000000002608                LPSCI_TransferHandleErrorIRQ
+                0x000000000000260a                UART0_DriverIRQHandler
+ .text          0x0000000000002620      0x1f8 ./drivers/fsl_smc.o
+                0x0000000000002620                SMC_PreEnterStopModes
+                0x000000000000264c                SMC_PostExitStopModes
+                0x0000000000002674                SMC_PreEnterWaitModes
+                0x0000000000002688                SMC_PostExitWaitModes
+                0x000000000000269c                SMC_SetPowerModeRun
+                0x00000000000026a8                SMC_SetPowerModeWait
+                0x00000000000026c4                SMC_SetPowerModeStop
+                0x0000000000002708                SMC_SetPowerModeVlpr
+                0x000000000000271a                SMC_SetPowerModeVlpw
+                0x0000000000002738                SMC_SetPowerModeVlps
+                0x0000000000002774                SMC_SetPowerModeLls
+                0x00000000000027b0                SMC_SetPowerModeVlls
+ .text          0x0000000000002818      0x59c ./drivers/fsl_str.o
+                0x00000000000028e8                StrFormatPrintf
+                0x0000000000002ae2                StrFormatScanf
+ .text          0x0000000000002db4       0x30 ./drivers/fsl_tickless_lptmr.o
+                0x0000000000002db4                prvSetupTimerInterrupt
+ .text          0x0000000000002de4      0xbb8 ./drivers/fsl_uart.o
+                0x0000000000002e4c                UART_GetInstance
+                0x0000000000002e88                UART_TransferGetRxRingBufferLength
+                0x0000000000002f00                UART_Init
+                0x0000000000003030                UART_Deinit
+                0x0000000000003068                UART_GetDefaultConfig
+                0x00000000000030a0                UART_SetBaudRate
+                0x0000000000003140                UART_EnableInterrupts
+                0x0000000000003164                UART_DisableInterrupts
+                0x0000000000003184                UART_TransferHandleIRQ
+                0x00000000000033f4                UART_GetEnabledInterrupts
+                0x0000000000003410                UART_GetStatusFlags
+                0x000000000000341a                UART_ClearStatusFlags
+                0x0000000000003454                UART_WriteBlocking
+                0x0000000000003470                UART_ReadBlocking
+                0x00000000000034e4                UART_TransferCreateHandle
+                0x0000000000003568                UART_TransferStartRingBuffer
+                0x00000000000035d0                UART_TransferStopRingBuffer
+                0x0000000000003624                UART_TransferSendNonBlocking
+                0x00000000000036c0                UART_TransferAbortSend
+                0x00000000000036f4                UART_TransferGetSendCount
+                0x0000000000003748                UART_TransferReceiveNonBlocking
+                0x00000000000038b0                UART_TransferAbortReceive
+                0x0000000000003904                UART_TransferGetReceiveCount
+                0x000000000000395c                UART_TransferHandleErrorIRQ
+                0x000000000000395e                UART1_DriverIRQHandler
+                0x0000000000003974                UART1_RX_TX_DriverIRQHandler
+                0x000000000000397c                UART2_DriverIRQHandler
+                0x0000000000003994                UART2_RX_TX_DriverIRQHandler
+ .text          0x000000000000399c      0x114 ./drivers/heap_2.o
+                0x00000000000039c4                pvPortMalloc
+                0x0000000000003a64                vPortFree
+                0x0000000000003aa0                xPortGetFreeHeapSize
+                0x0000000000003aac                vPortInitialiseBlocks
+ .text          0x0000000000003ab0       0x86 ./drivers/list.o
+                0x0000000000003ab0                vListInitialise
+                0x0000000000003ac6                vListInitialiseItem
+                0x0000000000003acc                vListInsertEnd
+                0x0000000000003ae2                vListInsert
+                0x0000000000003b10                uxListRemove
+ *fill*         0x0000000000003b36        0x2 
+ .text          0x0000000000003b38       0x34 ./drivers/pin_mux.o
+                0x0000000000003b38                BOARD_InitPins
+                0x0000000000003b64                BOARD_InitBootPins
+ *fill*         0x0000000000003b6c        0x4 
+ .text          0x0000000000003b70      0x198 ./drivers/port.o
+                0x0000000000003bc4                pxPortInitialiseStack
+                0x0000000000003be4                SVC_Handler
+                0x0000000000003be6                xPortStartScheduler
+                0x0000000000003c20                vPortEndScheduler
+                0x0000000000003c38                vPortYield
+                0x0000000000003c50                vPortEnterCritical
+                0x0000000000003c68                vPortExitCritical
+                0x0000000000003c88                ulSetInterruptMaskFromISR
+                0x0000000000003c90                vClearInterruptMaskFromISR
+                0x0000000000003c96                PendSV_Handler
+                0x0000000000003ce4                SysTick_Handler
+ .text          0x0000000000003d08      0xb00 ./drivers/queue.o
+                0x0000000000003e6c                xQueueGenericReset
+                0x0000000000003efc                xQueueGenericCreate
+                0x0000000000003f3a                xQueueCreateCountingSemaphore
+                0x0000000000003f5e                xQueueGenericSend
+                0x000000000000409e                xQueueCreateMutex
+                0x00000000000040b4                xQueueGiveMutexRecursive
+                0x00000000000040e8                xQueueGenericSendFromISR
+                0x0000000000004192                xQueueGiveFromISR
+                0x0000000000004218                xQueueReceive
+                0x000000000000432e                xQueueSemaphoreTake
+                0x0000000000004484                xQueueTakeMutexRecursive
+                0x00000000000044ba                xQueuePeek
+                0x00000000000045d0                xQueueReceiveFromISR
+                0x0000000000004666                xQueuePeekFromISR
+                0x00000000000046b4                uxQueueMessagesWaiting
+                0x00000000000046cc                uxQueueSpacesAvailable
+                0x00000000000046e8                uxQueueMessagesWaitingFromISR
+                0x00000000000046f4                uxQueueGetQueueNumber
+                0x00000000000046f8                vQueueSetQueueNumber
+                0x00000000000046fc                ucQueueGetQueueType
+                0x0000000000004702                xQueueIsQueueEmptyFromISR
+                0x0000000000004718                xQueueIsQueueFullFromISR
+                0x0000000000004730                vQueueAddToRegistry
+                0x0000000000004754                pcQueueGetName
+                0x0000000000004778                vQueueUnregisterQueue
+                0x00000000000047a0                vQueueDelete
+                0x00000000000047b6                vQueueWaitForMessageRestricted
+ .text          0x0000000000004808     0x13a8 ./drivers/tasks.o
+                0x0000000000004ae0                xTaskCreate
+                0x0000000000004b40                vTaskDelete
+                0x0000000000004bc8                eTaskGetState
+                0x0000000000004c34                uxTaskPriorityGet
+                0x0000000000004c54                uxTaskPriorityGetFromISR
+                0x0000000000004c74                vTaskPrioritySet
+                0x0000000000004d30                vTaskResume
+                0x0000000000004d98                xTaskResumeFromISR
+                0x0000000000004e18                vTaskStartScheduler
+                0x0000000000004e74                vTaskEndScheduler
+                0x0000000000004e88                vTaskSuspendAll
+                0x0000000000004e98                xTaskGetTickCount
+                0x0000000000004ea4                xTaskGetTickCountFromISR
+                0x0000000000004eb0                uxTaskGetNumberOfTasks
+                0x0000000000004ebc                pcTaskGetName
+                0x0000000000004ed8                xTaskIncrementTick
+                0x0000000000004fb4                xTaskResumeAll
+                0x0000000000005088                vTaskDelayUntil
+                0x00000000000050f8                vTaskDelay
+                0x0000000000005128                vTaskSwitchContext
+                0x00000000000051ac                vTaskSuspend
+                0x000000000000524c                vTaskPlaceOnEventList
+                0x0000000000005270                vTaskPlaceOnUnorderedEventList
+                0x00000000000052ac                vTaskPlaceOnEventListRestricted
+                0x00000000000052dc                xTaskRemoveFromEventList
+                0x0000000000005358                vTaskRemoveFromUnorderedEventList
+                0x00000000000053c4                vTaskSetTimeOutState
+                0x00000000000053e8                vTaskInternalSetTimeOutState
+                0x00000000000053f8                xTaskCheckForTimeOut
+                0x000000000000545c                vTaskMissedYield
+                0x0000000000005468                uxTaskGetTaskNumber
+                0x0000000000005474                vTaskSetTaskNumber
+                0x000000000000547c                vTaskSetThreadLocalStoragePointer
+                0x0000000000005498                pvTaskGetThreadLocalStoragePointer
+                0x00000000000054b8                vTaskGetInfo
+                0x00000000000055a2                uxTaskGetSystemState
+                0x0000000000005650                xTaskGetCurrentTaskHandle
+                0x000000000000565c                xTaskGetSchedulerState
+                0x000000000000567c                xTaskPriorityInherit
+                0x0000000000005714                xTaskPriorityDisinherit
+                0x0000000000005788                vTaskPriorityDisinheritAfterTimeout
+                0x000000000000580c                uxTaskResetEventItemValue
+                0x0000000000005824                pvTaskIncrementMutexHeldCount
+                0x0000000000005840                ulTaskNotifyTake
+                0x00000000000058ac                xTaskNotifyWait
+                0x0000000000005930                xTaskGenericNotify
+                0x00000000000059f0                xTaskGenericNotifyFromISR
+                0x0000000000005ae0                vTaskNotifyGiveFromISR
+                0x0000000000005b80                xTaskNotifyStateClear
+ .text          0x0000000000005bb0      0x4c0 ./drivers/timers.o
+                0x0000000000005c9a                xTimerCreateTimerTask
+                0x0000000000005cd8                xTimerCreate
+                0x0000000000005d06                xTimerGenericCommand
+                0x0000000000005f86                xTimerGetTimerDaemonTaskHandle
+                0x0000000000005f98                xTimerGetPeriod
+                0x0000000000005fa4                xTimerGetExpiryTime
+                0x0000000000005fb0                pcTimerGetName
+                0x0000000000005fbc                xTimerIsTimerActive
+                0x0000000000005fda                pvTimerGetTimerID
+                0x0000000000005ff2                vTimerSetTimerID
+                0x000000000000600c                xTimerPendFunctionCallFromISR
+                0x0000000000006034                xTimerPendFunctionCall
+                0x0000000000006068                uxTimerGetTimerNumber
+                0x000000000000606c                vTimerSetTimerNumber
+ .text          0x0000000000006070      0x114 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_udivsi3.o)
+                0x0000000000006070                __udivsi3
+                0x0000000000006070                __aeabi_uidiv
+                0x000000000000617c                __aeabi_uidivmod
+ .text          0x0000000000006184      0x1d4 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_divsi3.o)
+                0x0000000000006184                __aeabi_idiv
+                0x0000000000006184                __divsi3
+                0x0000000000006350                __aeabi_idivmod
+ .text          0x0000000000006358        0x4 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_dvmd_tls.o)
+                0x0000000000006358                __aeabi_ldiv0
+                0x0000000000006358                __aeabi_idiv0
+ .text          0x000000000000635c       0x28 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-malloc.o)
+                0x000000000000635c                malloc
+                0x0000000000006370                free
+ .text          0x0000000000006384       0xa4 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-memcpy-stub.o)
+                0x0000000000006384                memcpy
+ .text          0x0000000000006428       0xa8 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-memset.o)
+                0x0000000000006428                memset
+ .text          0x00000000000064d0       0xc0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-nano-freer.o)
+                0x00000000000064d0                _free_r
+ .text          0x0000000000006590       0xc4 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-nano-mallocr.o)
+                0x0000000000006590                _malloc_r
+ .text          0x0000000000006654       0xe8 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-rand.o)
+                0x0000000000006654                srand
+                0x00000000000066b4                rand
+ .text          0x000000000000673c       0x24 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-sbrkr.o)
+                0x000000000000673c                _sbrk_r
+ .text          0x0000000000006760       0x5c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-strlen-stub.o)
+                0x0000000000006760                strlen
+ .text          0x00000000000067bc        0x8 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-mlock.o)
+                0x00000000000067bc                __malloc_lock
+                0x00000000000067c0                __malloc_unlock
+ .text          0x00000000000067c4       0x5c /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_muldi3.o)
+                0x00000000000067c4                __aeabi_lmul
+                0x00000000000067c4                __muldi3
+ *(.glue_7t)
+ .glue_7t       0x0000000000006820        0x0 linker stubs
+ *(.glue_7)
+ .glue_7        0x0000000000006820        0x0 linker stubs
+ *(.rodata .rodata* .gnu.linkonce.r.*)
+ .rodata.str1.4
+                0x0000000000006820       0xbe main.o
+ *fill*         0x00000000000068de        0x2 
+ .rodata        0x00000000000068e0       0x36 ./drivers/clock_config.o
+                0x00000000000068e0                oscConfig_BOARD_BootClockRUN
+                0x00000000000068e8                mcgConfig_BOARD_BootClockRUN
+                0x00000000000068f4                simConfig_BOARD_BootClockRUN
+                0x00000000000068fc                simConfig_BOARD_BootClockVLPR
+                0x0000000000006904                oscConfig_BOARD_BootClockVLPR
+                0x000000000000690c                mcgConfig_BOARD_BootClockVLPR
+ *fill*         0x0000000000006916        0x2 
+ .rodata.str1.4
+                0x0000000000006918       0x3e ./drivers/fsl_assert.o
+ *fill*         0x0000000000006956        0x2 
+ .rodata.str1.4
+                0x0000000000006958       0x43 ./drivers/fsl_clock.o
+ *fill*         0x000000000000699b        0x1 
+ .rodata        0x000000000000699c      0x14c ./drivers/fsl_clock.o
+ .rodata.str1.4
+                0x0000000000006ae8       0x48 ./drivers/fsl_debug_console.o
+ .rodata        0x0000000000006b30       0x10 ./drivers/fsl_debug_console.o
+ .rodata        0x0000000000006b40       0x1c ./drivers/fsl_ftfx_cache.o
+ .rodata.str1.4
+                0x0000000000006b5c       0x1d ./drivers/fsl_io.o
+ *fill*         0x0000000000006b79        0x3 
+ .rodata        0x0000000000006b7c        0x8 ./drivers/fsl_io.o
+ .rodata.str1.4
+                0x0000000000006b84       0x2b ./drivers/fsl_log.o
+ *fill*         0x0000000000006baf        0x1 
+ .rodata        0x0000000000006bb0       0x2e ./drivers/fsl_log.o
+ *fill*         0x0000000000006bde        0x2 
+ .rodata.str1.4
+                0x0000000000006be0       0x96 ./drivers/fsl_lpsci.o
+                                         0xae (size before relaxing)
+ *fill*         0x0000000000006c76        0x2 
+ .rodata        0x0000000000006c78      0x212 ./drivers/fsl_lpsci.o
+ *fill*         0x0000000000006e8a        0x2 
+ .rodata        0x0000000000006e8c        0x2 ./drivers/fsl_smc.o
+ *fill*         0x0000000000006e8e        0x2 
+ .rodata        0x0000000000006e90      0x124 ./drivers/fsl_str.o
+ .rodata.str1.4
+                0x0000000000006fb4       0x2e ./drivers/fsl_uart.o
+                                         0xa6 (size before relaxing)
+ *fill*         0x0000000000006fe2        0x2 
+ .rodata        0x0000000000006fe4      0x20d ./drivers/fsl_uart.o
+ *fill*         0x00000000000071f1        0x3 
+ .rodata.str1.4
+                0x00000000000071f4        0x5 ./drivers/tasks.o
+ *fill*         0x00000000000071f9        0x3 
+ .rodata.str1.4
+                0x00000000000071fc       0x10 ./drivers/timers.o
+ .rodata        0x000000000000720c       0x28 ./drivers/timers.o
+ .rodata.str1.4
+                0x0000000000007234       0x4a /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-rand.o)
+
+.vfp11_veneer   0x0000000000007280        0x0
+ .vfp11_veneer  0x0000000000007280        0x0 linker stubs
+
+.v4_bx          0x0000000000007280        0x0
+ .v4_bx         0x0000000000007280        0x0 linker stubs
+
+.init           0x0000000000007280        0x4
+ .init          0x0000000000007280        0x4 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crti.o
+                0x0000000000007280                _init
+
+.fini           0x0000000000007284        0x4
+ .fini          0x0000000000007284        0x4 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crti.o
+                0x0000000000007284                _fini
+
+.iplt           0x0000000000007288        0x0
+ .iplt          0x0000000000007288        0x0 main.o
+
+.rel.dyn        0x0000000000007288        0x0
+ .rel.iplt      0x0000000000007288        0x0 main.o
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM.exidx
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+                0x0000000000007288                . = ALIGN (0x4)
+                0x0000000000007288                _etext = .
+                0x0000000000007288                _sidata = .
+
+.data           0x000000001fffe000       0x7c load address 0x0000000000007288
+                0x000000001fffe000                _sdata = .
+ *(.data .data.*)
+ .data          0x000000001fffe000        0x4 main.o
+ .data          0x000000001fffe004        0x8 ./drivers/fsl_clock.o
+ .data          0x000000001fffe00c        0x4 ./drivers/heap_2.o
+ .data          0x000000001fffe010        0x4 ./drivers/port.o
+ .data          0x000000001fffe014        0x4 ./drivers/system_MKL46Z4.o
+                0x000000001fffe014                SystemCoreClock
+ .data          0x000000001fffe018       0x64 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-impure.o)
+                0x000000001fffe018                _impure_ptr
+                0x000000001fffe07c                . = ALIGN (0x4)
+                0x000000001fffe07c                _edata = .
+
+.igot.plt       0x000000001fffe07c        0x0 load address 0x0000000000007304
+ .igot.plt      0x000000001fffe07c        0x0 main.o
+
+.bss            0x000000001fffe07c     0x2a0c load address 0x0000000000007304
+                0x000000001fffe07c                _sbss = .
+ *(.bss .bss.*)
+ .bss           0x000000001fffe07c        0x8 ./drivers/fsl_clock.o
+                0x000000001fffe07c                g_xtal0Freq
+                0x000000001fffe080                g_xtal32Freq
+ .bss           0x000000001fffe084       0x40 ./drivers/fsl_ftfx_cache.o
+ .bss           0x000000001fffe0c4        0x8 ./drivers/fsl_io.o
+ .bss           0x000000001fffe0cc        0x8 ./drivers/fsl_lpsci.o
+ .bss           0x000000001fffe0d4        0x4 ./drivers/fsl_smc.o
+ .bss           0x000000001fffe0d8       0x10 ./drivers/fsl_uart.o
+ .bss           0x000000001fffe0e8     0x2814 ./drivers/heap_2.o
+ .bss           0x00000000200008fc       0x40 ./drivers/queue.o
+                0x00000000200008fc                xQueueRegistry
+ .bss           0x000000002000093c      0x104 ./drivers/tasks.o
+                0x0000000020000a14                pxCurrentTCB
+ .bss           0x0000000020000a40       0x3c ./drivers/timers.o
+ .bss           0x0000000020000a7c        0x8 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-nano-mallocr.o)
+                0x0000000020000a7c                __malloc_free_list
+                0x0000000020000a80                __malloc_sbrk_start
+ .bss           0x0000000020000a84        0x4 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-reent.o)
+                0x0000000020000a84                errno
+ *(COMMON)
+                0x0000000020000a88                . = ALIGN (0x4)
+                0x0000000020000a88                _ebss = .
+
+.co_stack       0x0000000020000a88      0x400 load address 0x0000000000009d10
+                0x0000000020000a88                . = ALIGN (0x8)
+                0x0000000020000e88                . = (. + STACK_SIZE)
+ *fill*         0x0000000020000a88      0x400 
+                0x0000000020000e88                _start_of_stack = .
+                0x0000000020000e88                . = ALIGN (0x4)
+                0x0000000020000e88                _end = .
+LOAD main.o
+LOAD startup.o
+LOAD ./drivers/board.o
+LOAD ./drivers/clock_config.o
+LOAD ./drivers/event_groups.o
+LOAD ./drivers/fsl_assert.o
+LOAD ./drivers/fsl_clock.o
+LOAD ./drivers/fsl_common.o
+LOAD ./drivers/fsl_debug_console.o
+LOAD ./drivers/fsl_ftfx_cache.o
+LOAD ./drivers/fsl_ftfx_controller.o
+LOAD ./drivers/fsl_ftfx_flash.o
+LOAD ./drivers/fsl_gpio.o
+LOAD ./drivers/fsl_io.o
+LOAD ./drivers/fsl_log.o
+LOAD ./drivers/fsl_lpsci.o
+LOAD ./drivers/fsl_smc.o
+LOAD ./drivers/fsl_str.o
+LOAD ./drivers/fsl_tickless_lptmr.o
+LOAD ./drivers/fsl_tickless_systick.o
+LOAD ./drivers/fsl_uart.o
+LOAD ./drivers/heap_2.o
+LOAD ./drivers/lcd.o
+LOAD ./drivers/list.o
+LOAD ./drivers/pin_mux.o
+LOAD ./drivers/port.o
+LOAD ./drivers/queue.o
+LOAD ./drivers/stream_buffer.o
+LOAD ./drivers/system_MKL46Z4.o
+LOAD ./drivers/tasks.o
+LOAD ./drivers/timers.o
+START GROUP
+LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a
+LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a
+LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a
+END GROUP
+START GROUP
+LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a
+LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libc_nano.a
+END GROUP
+LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtend.o
+LOAD /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crtn.o
+OUTPUT(main.elf elf32-littlearm)
+LOAD linker stubs
+
+.ARM.attributes
+                0x0000000000000000       0x28
+ .ARM.attributes
+                0x0000000000000000       0x1e /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/crti.o
+ .ARM.attributes
+                0x000000000000001e       0x2c main.o
+ .ARM.attributes
+                0x000000000000004a       0x2c startup.o
+ .ARM.attributes
+                0x0000000000000076       0x2c ./drivers/board.o
+ .ARM.attributes
+                0x00000000000000a2       0x2c ./drivers/clock_config.o
+ .ARM.attributes
+                0x00000000000000ce       0x2c ./drivers/fsl_assert.o
+ .ARM.attributes
+                0x00000000000000fa       0x2c ./drivers/fsl_clock.o
+ .ARM.attributes
+                0x0000000000000126       0x2c ./drivers/fsl_debug_console.o
+ .ARM.attributes
+                0x0000000000000152       0x2c ./drivers/fsl_ftfx_cache.o
+ .ARM.attributes
+                0x000000000000017e       0x2c ./drivers/fsl_io.o
+ .ARM.attributes
+                0x00000000000001aa       0x2c ./drivers/fsl_log.o
+ .ARM.attributes
+                0x00000000000001d6       0x2c ./drivers/fsl_lpsci.o
+ .ARM.attributes
+                0x0000000000000202       0x2c ./drivers/fsl_smc.o
+ .ARM.attributes
+                0x000000000000022e       0x2c ./drivers/fsl_str.o
+ .ARM.attributes
+                0x000000000000025a       0x2c ./drivers/fsl_tickless_lptmr.o
+ .ARM.attributes
+                0x0000000000000286       0x2c ./drivers/fsl_uart.o
+ .ARM.attributes
+                0x00000000000002b2       0x2c ./drivers/heap_2.o
+ .ARM.attributes
+                0x00000000000002de       0x2c ./drivers/list.o
+ .ARM.attributes
+                0x000000000000030a       0x2c ./drivers/pin_mux.o
+ .ARM.attributes
+                0x0000000000000336       0x2c ./drivers/port.o
+ .ARM.attributes
+                0x0000000000000362       0x2c ./drivers/queue.o
+ .ARM.attributes
+                0x000000000000038e       0x2c ./drivers/system_MKL46Z4.o
+ .ARM.attributes
+                0x00000000000003ba       0x2c ./drivers/tasks.o
+ .ARM.attributes
+                0x00000000000003e6       0x2c ./drivers/timers.o
+ .ARM.attributes
+                0x0000000000000412       0x1e /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_udivsi3.o)
+ .ARM.attributes
+                0x0000000000000430       0x1e /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_divsi3.o)
+ .ARM.attributes
+                0x000000000000044e       0x1e /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x000000000000046c       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-impure.o)
+ .ARM.attributes
+                0x0000000000000498       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-malloc.o)
+ .ARM.attributes
+                0x00000000000004c4       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-memcpy-stub.o)
+ .ARM.attributes
+                0x00000000000004f0       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-memset.o)
+ .ARM.attributes
+                0x000000000000051c       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-nano-freer.o)
+ .ARM.attributes
+                0x0000000000000548       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-nano-mallocr.o)
+ .ARM.attributes
+                0x0000000000000574       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-rand.o)
+ .ARM.attributes
+                0x00000000000005a0       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-sbrkr.o)
+ .ARM.attributes
+                0x00000000000005cc       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-strlen-stub.o)
+ .ARM.attributes
+                0x00000000000005f8       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-mlock.o)
+ .ARM.attributes
+                0x0000000000000624       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-reent.o)
+ .ARM.attributes
+                0x0000000000000650       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_muldi3.o)
+
+.comment        0x0000000000000000       0x33
+ .comment       0x0000000000000000       0x33 main.o
+                                         0x34 (size before relaxing)
+ .comment       0x0000000000000033       0x34 startup.o
+ .comment       0x0000000000000033       0x34 ./drivers/board.o
+ .comment       0x0000000000000033       0x34 ./drivers/clock_config.o
+ .comment       0x0000000000000033       0x34 ./drivers/fsl_assert.o
+ .comment       0x0000000000000033       0x34 ./drivers/fsl_clock.o
+ .comment       0x0000000000000033       0x34 ./drivers/fsl_debug_console.o
+ .comment       0x0000000000000033       0x34 ./drivers/fsl_ftfx_cache.o
+ .comment       0x0000000000000033       0x34 ./drivers/fsl_io.o
+ .comment       0x0000000000000033       0x34 ./drivers/fsl_log.o
+ .comment       0x0000000000000033       0x34 ./drivers/fsl_lpsci.o
+ .comment       0x0000000000000033       0x34 ./drivers/fsl_smc.o
+ .comment       0x0000000000000033       0x34 ./drivers/fsl_str.o
+ .comment       0x0000000000000033       0x34 ./drivers/fsl_tickless_lptmr.o
+ .comment       0x0000000000000033       0x34 ./drivers/fsl_uart.o
+ .comment       0x0000000000000033       0x34 ./drivers/heap_2.o
+ .comment       0x0000000000000033       0x34 ./drivers/list.o
+ .comment       0x0000000000000033       0x34 ./drivers/pin_mux.o
+ .comment       0x0000000000000033       0x34 ./drivers/port.o
+ .comment       0x0000000000000033       0x34 ./drivers/queue.o
+ .comment       0x0000000000000033       0x34 ./drivers/system_MKL46Z4.o
+ .comment       0x0000000000000033       0x34 ./drivers/tasks.o
+ .comment       0x0000000000000033       0x34 ./drivers/timers.o
+ .comment       0x0000000000000033       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-impure.o)
+ .comment       0x0000000000000033       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-malloc.o)
+ .comment       0x0000000000000033       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-memcpy-stub.o)
+ .comment       0x0000000000000033       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-memset.o)
+ .comment       0x0000000000000033       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-nano-freer.o)
+ .comment       0x0000000000000033       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-nano-mallocr.o)
+ .comment       0x0000000000000033       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-rand.o)
+ .comment       0x0000000000000033       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-sbrkr.o)
+ .comment       0x0000000000000033       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-strlen-stub.o)
+ .comment       0x0000000000000033       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-mlock.o)
+ .comment       0x0000000000000033       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-reent.o)
+ .comment       0x0000000000000033       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_muldi3.o)
+
+.debug_info     0x0000000000000000    0x168f4
+ .debug_info    0x0000000000000000      0x5e7 main.o
+ .debug_info    0x00000000000005e7      0x11b startup.o
+ .debug_info    0x0000000000000702      0x404 ./drivers/board.o
+ .debug_info    0x0000000000000b06      0xc91 ./drivers/clock_config.o
+ .debug_info    0x0000000000001797      0x127 ./drivers/fsl_assert.o
+ .debug_info    0x00000000000018be     0x2264 ./drivers/fsl_clock.o
+ .debug_info    0x0000000000003b22      0x652 ./drivers/fsl_debug_console.o
+ .debug_info    0x0000000000004174      0x6e5 ./drivers/fsl_ftfx_cache.o
+ .debug_info    0x0000000000004859      0xb7d ./drivers/fsl_io.o
+ .debug_info    0x00000000000053d6      0x53a ./drivers/fsl_log.o
+ .debug_info    0x0000000000005910     0x2358 ./drivers/fsl_lpsci.o
+ .debug_info    0x0000000000007c68      0xb06 ./drivers/fsl_smc.o
+ .debug_info    0x000000000000876e      0x7c5 ./drivers/fsl_str.o
+ .debug_info    0x0000000000008f33       0xc7 ./drivers/fsl_tickless_lptmr.o
+ .debug_info    0x0000000000008ffa     0x21fd ./drivers/fsl_uart.o
+ .debug_info    0x000000000000b1f7      0x366 ./drivers/heap_2.o
+ .debug_info    0x000000000000b55d      0x2ce ./drivers/list.o
+ .debug_info    0x000000000000b82b      0x3c5 ./drivers/pin_mux.o
+ .debug_info    0x000000000000bbf0      0x2cd ./drivers/port.o
+ .debug_info    0x000000000000bebd     0x1c57 ./drivers/queue.o
+ .debug_info    0x000000000000db14      0x44f ./drivers/system_MKL46Z4.o
+ .debug_info    0x000000000000df63     0x27be ./drivers/tasks.o
+ .debug_info    0x0000000000010721     0x124e ./drivers/timers.o
+ .debug_info    0x000000000001196f       0x26 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_udivsi3.o)
+ .debug_info    0x0000000000011995       0x26 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_divsi3.o)
+ .debug_info    0x00000000000119bb       0x26 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_dvmd_tls.o)
+ .debug_info    0x00000000000119e1      0x863 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-impure.o)
+ .debug_info    0x0000000000012244      0x832 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-malloc.o)
+ .debug_info    0x0000000000012a76      0x15c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-memcpy-stub.o)
+ .debug_info    0x0000000000012bd2      0x13d /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-memset.o)
+ .debug_info    0x0000000000012d0f      0x928 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-nano-freer.o)
+ .debug_info    0x0000000000013637      0xa09 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-nano-mallocr.o)
+ .debug_info    0x0000000000014040      0x916 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-rand.o)
+ .debug_info    0x0000000000014956      0x828 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-sbrkr.o)
+ .debug_info    0x000000000001517e       0xee /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-strlen-stub.o)
+ .debug_info    0x000000000001526c      0x7dc /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-mlock.o)
+ .debug_info    0x0000000000015a48      0xa7b /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-reent.o)
+ .debug_info    0x00000000000164c3      0x431 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_muldi3.o)
+
+.debug_abbrev   0x0000000000000000     0x41f2
+ .debug_abbrev  0x0000000000000000      0x16d main.o
+ .debug_abbrev  0x000000000000016d       0xd4 startup.o
+ .debug_abbrev  0x0000000000000241      0x180 ./drivers/board.o
+ .debug_abbrev  0x00000000000003c1      0x28d ./drivers/clock_config.o
+ .debug_abbrev  0x000000000000064e       0x97 ./drivers/fsl_assert.o
+ .debug_abbrev  0x00000000000006e5      0x3ee ./drivers/fsl_clock.o
+ .debug_abbrev  0x0000000000000ad3      0x1ee ./drivers/fsl_debug_console.o
+ .debug_abbrev  0x0000000000000cc1      0x215 ./drivers/fsl_ftfx_cache.o
+ .debug_abbrev  0x0000000000000ed6      0x254 ./drivers/fsl_io.o
+ .debug_abbrev  0x000000000000112a      0x1a8 ./drivers/fsl_log.o
+ .debug_abbrev  0x00000000000012d2      0x3e7 ./drivers/fsl_lpsci.o
+ .debug_abbrev  0x00000000000016b9      0x2c5 ./drivers/fsl_smc.o
+ .debug_abbrev  0x000000000000197e      0x245 ./drivers/fsl_str.o
+ .debug_abbrev  0x0000000000001bc3       0x80 ./drivers/fsl_tickless_lptmr.o
+ .debug_abbrev  0x0000000000001c43      0x3c0 ./drivers/fsl_uart.o
+ .debug_abbrev  0x0000000000002003      0x1a9 ./drivers/heap_2.o
+ .debug_abbrev  0x00000000000021ac      0x106 ./drivers/list.o
+ .debug_abbrev  0x00000000000022b2      0x195 ./drivers/pin_mux.o
+ .debug_abbrev  0x0000000000002447      0x1bf ./drivers/port.o
+ .debug_abbrev  0x0000000000002606      0x281 ./drivers/queue.o
+ .debug_abbrev  0x0000000000002887      0x146 ./drivers/system_MKL46Z4.o
+ .debug_abbrev  0x00000000000029cd      0x2b0 ./drivers/tasks.o
+ .debug_abbrev  0x0000000000002c7d      0x256 ./drivers/timers.o
+ .debug_abbrev  0x0000000000002ed3       0x14 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_udivsi3.o)
+ .debug_abbrev  0x0000000000002ee7       0x14 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_divsi3.o)
+ .debug_abbrev  0x0000000000002efb       0x14 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_dvmd_tls.o)
+ .debug_abbrev  0x0000000000002f0f      0x151 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-impure.o)
+ .debug_abbrev  0x0000000000003060      0x1b3 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-malloc.o)
+ .debug_abbrev  0x0000000000003213       0xc7 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-memcpy-stub.o)
+ .debug_abbrev  0x00000000000032da       0xb4 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-memset.o)
+ .debug_abbrev  0x000000000000338e      0x232 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-nano-freer.o)
+ .debug_abbrev  0x00000000000035c0      0x297 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-nano-mallocr.o)
+ .debug_abbrev  0x0000000000003857      0x21b /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-rand.o)
+ .debug_abbrev  0x0000000000003a72      0x1d6 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-sbrkr.o)
+ .debug_abbrev  0x0000000000003c48       0x8f /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-strlen-stub.o)
+ .debug_abbrev  0x0000000000003cd7      0x189 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-mlock.o)
+ .debug_abbrev  0x0000000000003e60      0x257 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-reent.o)
+ .debug_abbrev  0x00000000000040b7      0x13b /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_muldi3.o)
+
+.debug_loc      0x0000000000000000     0xd980
+ .debug_loc     0x0000000000000000       0xc2 main.o
+ .debug_loc     0x00000000000000c2       0x8b startup.o
+ .debug_loc     0x000000000000014d       0x38 ./drivers/board.o
+ .debug_loc     0x0000000000000185       0x8a ./drivers/clock_config.o
+ .debug_loc     0x000000000000020f       0xb9 ./drivers/fsl_assert.o
+ .debug_loc     0x00000000000002c8     0x173a ./drivers/fsl_clock.o
+ .debug_loc     0x0000000000001a02      0x423 ./drivers/fsl_debug_console.o
+ .debug_loc     0x0000000000001e25      0x202 ./drivers/fsl_ftfx_cache.o
+ .debug_loc     0x0000000000002027      0x4c1 ./drivers/fsl_io.o
+ .debug_loc     0x00000000000024e8      0x347 ./drivers/fsl_log.o
+ .debug_loc     0x000000000000282f     0x1b9f ./drivers/fsl_lpsci.o
+ .debug_loc     0x00000000000043ce      0x3c9 ./drivers/fsl_smc.o
+ .debug_loc     0x0000000000004797      0xcf9 ./drivers/fsl_str.o
+ .debug_loc     0x0000000000005490     0x19e8 ./drivers/fsl_uart.o
+ .debug_loc     0x0000000000006e78      0x253 ./drivers/heap_2.o
+ .debug_loc     0x00000000000070cb       0xad ./drivers/list.o
+ .debug_loc     0x0000000000007178       0x7a ./drivers/pin_mux.o
+ .debug_loc     0x00000000000071f2       0xbe ./drivers/port.o
+ .debug_loc     0x00000000000072b0     0x1e87 ./drivers/queue.o
+ .debug_loc     0x0000000000009137       0xee ./drivers/system_MKL46Z4.o
+ .debug_loc     0x0000000000009225     0x26e2 ./drivers/tasks.o
+ .debug_loc     0x000000000000b907      0xf35 ./drivers/timers.o
+ .debug_loc     0x000000000000c83c       0x64 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-malloc.o)
+ .debug_loc     0x000000000000c8a0      0x457 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-memcpy-stub.o)
+ .debug_loc     0x000000000000ccf7      0x2a3 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-memset.o)
+ .debug_loc     0x000000000000cf9a      0x1d8 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-nano-freer.o)
+ .debug_loc     0x000000000000d172      0x2a9 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-nano-mallocr.o)
+ .debug_loc     0x000000000000d41b       0xfc /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-rand.o)
+ .debug_loc     0x000000000000d517       0x79 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-sbrkr.o)
+ .debug_loc     0x000000000000d590       0x90 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-strlen-stub.o)
+ .debug_loc     0x000000000000d620      0x199 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-reent.o)
+ .debug_loc     0x000000000000d7b9      0x1c7 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_muldi3.o)
+
+.debug_aranges  0x0000000000000000      0x4b8
+ .debug_aranges
+                0x0000000000000000       0x20 main.o
+ .debug_aranges
+                0x0000000000000020       0x20 startup.o
+ .debug_aranges
+                0x0000000000000040       0x20 ./drivers/board.o
+ .debug_aranges
+                0x0000000000000060       0x20 ./drivers/clock_config.o
+ .debug_aranges
+                0x0000000000000080       0x20 ./drivers/fsl_assert.o
+ .debug_aranges
+                0x00000000000000a0       0x20 ./drivers/fsl_clock.o
+ .debug_aranges
+                0x00000000000000c0       0x20 ./drivers/fsl_debug_console.o
+ .debug_aranges
+                0x00000000000000e0       0x20 ./drivers/fsl_ftfx_cache.o
+ .debug_aranges
+                0x0000000000000100       0x20 ./drivers/fsl_io.o
+ .debug_aranges
+                0x0000000000000120       0x20 ./drivers/fsl_log.o
+ .debug_aranges
+                0x0000000000000140       0x20 ./drivers/fsl_lpsci.o
+ .debug_aranges
+                0x0000000000000160       0x20 ./drivers/fsl_smc.o
+ .debug_aranges
+                0x0000000000000180       0x20 ./drivers/fsl_str.o
+ .debug_aranges
+                0x00000000000001a0       0x20 ./drivers/fsl_tickless_lptmr.o
+ .debug_aranges
+                0x00000000000001c0       0x20 ./drivers/fsl_uart.o
+ .debug_aranges
+                0x00000000000001e0       0x20 ./drivers/heap_2.o
+ .debug_aranges
+                0x0000000000000200       0x20 ./drivers/list.o
+ .debug_aranges
+                0x0000000000000220       0x20 ./drivers/pin_mux.o
+ .debug_aranges
+                0x0000000000000240       0x20 ./drivers/port.o
+ .debug_aranges
+                0x0000000000000260       0x20 ./drivers/queue.o
+ .debug_aranges
+                0x0000000000000280       0x20 ./drivers/system_MKL46Z4.o
+ .debug_aranges
+                0x00000000000002a0       0x20 ./drivers/tasks.o
+ .debug_aranges
+                0x00000000000002c0       0x20 ./drivers/timers.o
+ .debug_aranges
+                0x00000000000002e0       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_udivsi3.o)
+ .debug_aranges
+                0x0000000000000300       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_divsi3.o)
+ .debug_aranges
+                0x0000000000000320       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_dvmd_tls.o)
+ .debug_aranges
+                0x0000000000000340       0x18 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-impure.o)
+ .debug_aranges
+                0x0000000000000358       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-malloc.o)
+ .debug_aranges
+                0x0000000000000378       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-memcpy-stub.o)
+ .debug_aranges
+                0x0000000000000398       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-memset.o)
+ .debug_aranges
+                0x00000000000003b8       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-nano-freer.o)
+ .debug_aranges
+                0x00000000000003d8       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-nano-mallocr.o)
+ .debug_aranges
+                0x00000000000003f8       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-rand.o)
+ .debug_aranges
+                0x0000000000000418       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-sbrkr.o)
+ .debug_aranges
+                0x0000000000000438       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-strlen-stub.o)
+ .debug_aranges
+                0x0000000000000458       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-mlock.o)
+ .debug_aranges
+                0x0000000000000478       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-reent.o)
+ .debug_aranges
+                0x0000000000000498       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_muldi3.o)
+
+.debug_line     0x0000000000000000     0xb748
+ .debug_line    0x0000000000000000      0x214 main.o
+ .debug_line    0x0000000000000214       0xa3 startup.o
+ .debug_line    0x00000000000002b7       0xe8 ./drivers/board.o
+ .debug_line    0x000000000000039f      0x1bd ./drivers/clock_config.o
+ .debug_line    0x000000000000055c       0xa6 ./drivers/fsl_assert.o
+ .debug_line    0x0000000000000602     0x13e7 ./drivers/fsl_clock.o
+ .debug_line    0x00000000000019e9      0x25d ./drivers/fsl_debug_console.o
+ .debug_line    0x0000000000001c46      0x21c ./drivers/fsl_ftfx_cache.o
+ .debug_line    0x0000000000001e62      0x315 ./drivers/fsl_io.o
+ .debug_line    0x0000000000002177      0x271 ./drivers/fsl_log.o
+ .debug_line    0x00000000000023e8     0x1072 ./drivers/fsl_lpsci.o
+ .debug_line    0x000000000000345a      0x50b ./drivers/fsl_smc.o
+ .debug_line    0x0000000000003965      0x9f2 ./drivers/fsl_str.o
+ .debug_line    0x0000000000004357       0xc1 ./drivers/fsl_tickless_lptmr.o
+ .debug_line    0x0000000000004418     0x100f ./drivers/fsl_uart.o
+ .debug_line    0x0000000000005427      0x293 ./drivers/heap_2.o
+ .debug_line    0x00000000000056ba      0x202 ./drivers/list.o
+ .debug_line    0x00000000000058bc       0xfa ./drivers/pin_mux.o
+ .debug_line    0x00000000000059b6      0x27c ./drivers/port.o
+ .debug_line    0x0000000000005c32     0x160d ./drivers/queue.o
+ .debug_line    0x000000000000723f      0x241 ./drivers/system_MKL46Z4.o
+ .debug_line    0x0000000000007480     0x2268 ./drivers/tasks.o
+ .debug_line    0x00000000000096e8      0x932 ./drivers/timers.o
+ .debug_line    0x000000000000a01a       0x6c /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_udivsi3.o)
+ .debug_line    0x000000000000a086       0x73 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_divsi3.o)
+ .debug_line    0x000000000000a0f9       0x60 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_dvmd_tls.o)
+ .debug_line    0x000000000000a159       0xe4 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-impure.o)
+ .debug_line    0x000000000000a23d      0x165 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-malloc.o)
+ .debug_line    0x000000000000a3a2      0x1b5 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-memcpy-stub.o)
+ .debug_line    0x000000000000a557      0x1ce /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-memset.o)
+ .debug_line    0x000000000000a725      0x2d0 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-nano-freer.o)
+ .debug_line    0x000000000000a9f5      0x2ca /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-nano-mallocr.o)
+ .debug_line    0x000000000000acbf      0x26e /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-rand.o)
+ .debug_line    0x000000000000af2d      0x183 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-sbrkr.o)
+ .debug_line    0x000000000000b0b0      0x172 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-strlen-stub.o)
+ .debug_line    0x000000000000b222      0x13e /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-mlock.o)
+ .debug_line    0x000000000000b360      0x2ba /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-reent.o)
+ .debug_line    0x000000000000b61a      0x12e /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_muldi3.o)
+
+.debug_str      0x0000000000000000     0x6bba
+ .debug_str     0x0000000000000000      0x783 main.o
+                                        0x801 (size before relaxing)
+ .debug_str     0x0000000000000783       0x7f startup.o
+                                        0x127 (size before relaxing)
+ .debug_str     0x0000000000000802      0x13f ./drivers/board.o
+                                        0x280 (size before relaxing)
+ .debug_str     0x0000000000000941      0x6c8 ./drivers/clock_config.o
+                                        0xe65 (size before relaxing)
+ .debug_str     0x0000000000001009       0x33 ./drivers/fsl_assert.o
+                                        0x168 (size before relaxing)
+ .debug_str     0x000000000000103c      0xc8c ./drivers/fsl_clock.o
+                                       0x1836 (size before relaxing)
+ .debug_str     0x0000000000001cc8      0x190 ./drivers/fsl_debug_console.o
+                                        0x3bc (size before relaxing)
+ .debug_str     0x0000000000001e58      0x594 ./drivers/fsl_ftfx_cache.o
+                                        0xc9b (size before relaxing)
+ .debug_str     0x00000000000023ec      0x63b ./drivers/fsl_io.o
+                                        0xddb (size before relaxing)
+ .debug_str     0x0000000000002a27       0x37 ./drivers/fsl_log.o
+                                        0x2ea (size before relaxing)
+ .debug_str     0x0000000000002a5e      0xa15 ./drivers/fsl_lpsci.o
+                                       0x1699 (size before relaxing)
+ .debug_str     0x0000000000003473      0x357 ./drivers/fsl_smc.o
+                                        0xb79 (size before relaxing)
+ .debug_str     0x00000000000037ca      0x1a1 ./drivers/fsl_str.o
+                                        0x365 (size before relaxing)
+ .debug_str     0x000000000000396b       0x34 ./drivers/fsl_tickless_lptmr.o
+                                        0x17f (size before relaxing)
+ .debug_str     0x000000000000399f      0x6cd ./drivers/fsl_uart.o
+                                       0x16a0 (size before relaxing)
+ .debug_str     0x000000000000406c      0x16f ./drivers/heap_2.o
+                                        0x2b4 (size before relaxing)
+ .debug_str     0x00000000000041db      0x12d ./drivers/list.o
+                                        0x270 (size before relaxing)
+ .debug_str     0x0000000000004308      0x158 ./drivers/pin_mux.o
+                                        0x450 (size before relaxing)
+ .debug_str     0x0000000000004460      0x185 ./drivers/port.o
+                                        0x2e2 (size before relaxing)
+ .debug_str     0x00000000000045e5      0x6e0 ./drivers/queue.o
+                                        0xa11 (size before relaxing)
+ .debug_str     0x0000000000004cc5       0x5d ./drivers/system_MKL46Z4.o
+                                        0x288 (size before relaxing)
+ .debug_str     0x0000000000004d22      0xaee ./drivers/tasks.o
+                                       0x10be (size before relaxing)
+ .debug_str     0x0000000000005810      0x4ee ./drivers/timers.o
+                                        0x8d0 (size before relaxing)
+ .debug_str     0x0000000000005cfe       0xa6 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_udivsi3.o)
+ .debug_str     0x0000000000005da4       0xa6 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_divsi3.o)
+ .debug_str     0x0000000000005da4       0xa6 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_dvmd_tls.o)
+ .debug_str     0x0000000000005da4      0x460 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-impure.o)
+                                        0x557 (size before relaxing)
+ .debug_str     0x0000000000006204       0xb7 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-malloc.o)
+                                        0x52c (size before relaxing)
+ .debug_str     0x00000000000062bb       0xcb /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-memcpy-stub.o)
+                                        0x1de (size before relaxing)
+ .debug_str     0x0000000000006386       0x9f /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-memset.o)
+                                        0x1b9 (size before relaxing)
+ .debug_str     0x0000000000006425       0xb4 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-nano-freer.o)
+                                        0x58e (size before relaxing)
+ .debug_str     0x00000000000064d9       0x46 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-nano-mallocr.o)
+                                        0x5b9 (size before relaxing)
+ .debug_str     0x000000000000651f       0x45 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-rand.o)
+                                        0x531 (size before relaxing)
+ .debug_str     0x0000000000006564       0x37 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-sbrkr.o)
+                                        0x50f (size before relaxing)
+ .debug_str     0x000000000000659b       0x41 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-strlen-stub.o)
+                                        0x1ca (size before relaxing)
+ .debug_str     0x00000000000065dc       0x4c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-mlock.o)
+                                        0x525 (size before relaxing)
+ .debug_str     0x0000000000006628       0x5e /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-reent.o)
+                                        0x537 (size before relaxing)
+ .debug_str     0x0000000000006686      0x534 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_muldi3.o)
+                                        0x62c (size before relaxing)
+
+.debug_frame    0x0000000000000000     0x2150
+ .debug_frame   0x0000000000000000       0x70 main.o
+ .debug_frame   0x0000000000000070       0x38 startup.o
+ .debug_frame   0x00000000000000a8       0x28 ./drivers/board.o
+ .debug_frame   0x00000000000000d0       0x50 ./drivers/clock_config.o
+ .debug_frame   0x0000000000000120       0x2c ./drivers/fsl_assert.o
+ .debug_frame   0x000000000000014c      0x4a8 ./drivers/fsl_clock.o
+ .debug_frame   0x00000000000005f4      0x124 ./drivers/fsl_debug_console.o
+ .debug_frame   0x0000000000000718       0x98 ./drivers/fsl_ftfx_cache.o
+ .debug_frame   0x00000000000007b0       0x74 ./drivers/fsl_io.o
+ .debug_frame   0x0000000000000824       0xdc ./drivers/fsl_log.o
+ .debug_frame   0x0000000000000900      0x2d8 ./drivers/fsl_lpsci.o
+ .debug_frame   0x0000000000000bd8       0xe8 ./drivers/fsl_smc.o
+ .debug_frame   0x0000000000000cc0       0x9c ./drivers/fsl_str.o
+ .debug_frame   0x0000000000000d5c       0x28 ./drivers/fsl_tickless_lptmr.o
+ .debug_frame   0x0000000000000d84      0x318 ./drivers/fsl_uart.o
+ .debug_frame   0x000000000000109c       0x78 ./drivers/heap_2.o
+ .debug_frame   0x0000000000001114       0x6c ./drivers/list.o
+ .debug_frame   0x0000000000001180       0x38 ./drivers/pin_mux.o
+ .debug_frame   0x00000000000011b8       0xfc ./drivers/port.o
+ .debug_frame   0x00000000000012b4      0x380 ./drivers/queue.o
+ .debug_frame   0x0000000000001634       0x54 ./drivers/system_MKL46Z4.o
+ .debug_frame   0x0000000000001688      0x5dc ./drivers/tasks.o
+ .debug_frame   0x0000000000001c64      0x25c ./drivers/timers.o
+ .debug_frame   0x0000000000001ec0       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_udivsi3.o)
+ .debug_frame   0x0000000000001ee0       0x20 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_divsi3.o)
+ .debug_frame   0x0000000000001f00       0x40 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-malloc.o)
+ .debug_frame   0x0000000000001f40       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-memcpy-stub.o)
+ .debug_frame   0x0000000000001f74       0x30 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-memset.o)
+ .debug_frame   0x0000000000001fa4       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-nano-freer.o)
+ .debug_frame   0x0000000000001fd0       0x30 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-nano-mallocr.o)
+ .debug_frame   0x0000000000002000       0x48 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-rand.o)
+ .debug_frame   0x0000000000002048       0x2c /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-sbrkr.o)
+ .debug_frame   0x0000000000002074       0x28 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-strlen-stub.o)
+ .debug_frame   0x000000000000209c       0x30 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-mlock.o)
+ .debug_frame   0x00000000000020cc       0x50 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-reent.o)
+ .debug_frame   0x000000000000211c       0x34 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_muldi3.o)
+
+.debug_ranges   0x0000000000000000      0x2c8
+ .debug_ranges  0x0000000000000000       0x18 ./drivers/fsl_ftfx_cache.o
+ .debug_ranges  0x0000000000000018       0x18 ./drivers/fsl_lpsci.o
+ .debug_ranges  0x0000000000000030       0x30 ./drivers/fsl_smc.o
+ .debug_ranges  0x0000000000000060       0xb8 ./drivers/queue.o
+ .debug_ranges  0x0000000000000118       0xe8 ./drivers/tasks.o
+ .debug_ranges  0x0000000000000200       0x18 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-nano-freer.o)
+ .debug_ranges  0x0000000000000218       0x40 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-nano-mallocr.o)
+ .debug_ranges  0x0000000000000258       0x40 /usr/lib/gcc/arm-none-eabi/10.3.1/../../../arm-none-eabi/lib/thumb/v6-m/nofp/libg_nano.a(lib_a-rand.o)
+ .debug_ranges  0x0000000000000298       0x30 /usr/lib/gcc/arm-none-eabi/10.3.1/thumb/v6-m/nofp/libgcc.a(_muldi3.o)

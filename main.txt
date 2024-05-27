@@ -10,7 +10,6 @@
 #include "board.h"
 
 #include "pin_mux.h"
-#include <stddef.h>
 
 /*******************************************************************************
  * Definitions
@@ -32,27 +31,14 @@ typedef struct
 static void producer_task(void *pvParameters);
 static void consumer_task(void *pvParameters);
 
-extern char _end;
-static char *heap_end = &_end;
-
 /*******************************************************************************
  * Code
  ******************************************************************************/
-void watchdog_ini(){
- SIM->COPC = 0;
-}
-
-void *_sbrk(ptrdiff_t increment){
-	char *previous_heap_end = heap_end;
-	heap_end += increment;
-	return (void*)previous_heap_end;
-}
-
+/*!
+ * @brief Application entry point.
+ */
 int main(void)
 {
-    /*Disable the watchdog*/
-    watchdog_ini();
-    
     /* Init board hardware. */
     BOARD_InitPins();
     BOARD_BootClockRUN();
@@ -91,8 +77,9 @@ int main(void)
         ;
 }
 
-//Task responsible for producing data and putting it into the message queue.
-
+/*!
+ * @brief Task responsible for producing data and putting it into the message queue.
+ */
 static void producer_task(void *pvParameters)
 {
     QueueHandle_t *queue = (QueueHandle_t *)pvParameters;
